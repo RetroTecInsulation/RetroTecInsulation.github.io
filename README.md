@@ -12,17 +12,17 @@
     <link rel="manifest" href="../icon/site.webmanifest">
     <meta name="theme-color" content="#ffffff" />
     <meta name="description" content="Hall of vrchatians.">
-    <meta property="og:url" content="https://gangmonkeys.com">
+    <meta property="og:url" content="https://RetroTecInsulationLlc.com">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="gangmonkeys.com">
+    <meta property="og:title" content="Retro Tec Insulation Llc">
     <meta property="og:description" content="Hall of vrchatians.">
-    <meta property="og:image" content="https://r2.gangmonkeys.com/gangmonkeys/gangmonkeys.png">
+    <meta property="og:image" content="https://r2.Retro Tec Insulation Llc/gangmonkeys/gangmonkeys.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="gangmonkeys.com">
-    <meta property="twitter:url" content="https://gangmonkeys.com">
+    <meta property="twitter:domain" content="Retro Tec Insulation Llc">
+    <meta property="twitter:url" content="https://Retro Tec Insulation Llc">
     <meta name="twitter:title" content="gangmonkeys.com">
     <meta name="twitter:description" content="Hall of vrchatians.">
-    <meta name="twitter:image" content="https://r2.gangmonkeys.com/gangmonkeys/gangmonkeys.png">
+    <meta name="twitter:image" content="https://r2.Retro Tec Insulation Llc/gangmonkeys/gangmonkeys.png">
     
     <style>
         /* Custom CSS for elements that need more specific styling */
