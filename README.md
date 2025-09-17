@@ -307,7 +307,7 @@
     <!-- Click to Enter Overlay -->
     <div id="overlay" role="button" aria-label="Click to Enter" onclick="playMusicAndHideOverlay()">
         <div class="text-center">
-            <div class="text-4xl md:text-6xl mb-4">gangmonkeys.com</div>
+            <div class="text-4xl md:text-6xl mb-4">Retro Tec Insulation</div>
             <div class="text-xl animate-bounce">Click to Enter</div>
         </div>
     </div>
