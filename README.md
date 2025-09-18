@@ -332,8 +332,8 @@
         
         <!-- Navigation Buttons -->
         <div class="button-container">
-            <button class="outlined-button" onclick="window.location.href='/home';">Archieve</button>
-            <button class="outlined-button" onclick="window.location.href='/info';">HOA</button>
+            <button class="outlined-button" onclick="window.location.href='/home';">Home</button>
+            <button class="outlined-button" onclick="window.location.href='/info';">Info</button>
         </div>
         
         
