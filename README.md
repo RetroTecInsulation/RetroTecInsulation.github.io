@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Retro Tec Insulation Llc</title>
+    <title>gangmonkeys.com</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <link rel="apple-touch-icon" sizes="180x180" href="../icon/apple-touch-icon.png">
@@ -12,17 +12,17 @@
     <link rel="manifest" href="../icon/site.webmanifest">
     <meta name="theme-color" content="#ffffff" />
     <meta name="description" content="Hall of vrchatians.">
-    <meta property="og:url" content="https://RetroTecInsulationLlc.com">
+    <meta property="og:url" content="https://Retro Tec Insulation">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Retro Tec Insulation Llc">
+    <meta property="og:title" content="Retro Tec Insulation">
     <meta property="og:description" content="Hall of vrchatians.">
-    <meta property="og:image" content="https://r2.Retro Tec Insulation Llc/gangmonkeys/gangmonkeys.png">
+    <meta property="og:image" content="https://r2.Retro Tec Insulation/gangmonkeys/gangmonkeys.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="Retro Tec Insulation Llc">
-    <meta property="twitter:url" content="https://Retro Tec Insulation Llc">
+    <meta property="twitter:domain" content="Retro Tec Insulation">
+    <meta property="twitter:url" content="https://Retro Tec Insulation">
     <meta name="twitter:title" content="gangmonkeys.com">
     <meta name="twitter:description" content="Hall of vrchatians.">
-    <meta name="twitter:image" content="https://r2.Retro Tec Insulation Llc/gangmonkeys/gangmonkeys.png">
+    <meta name="twitter:image" content="https://r2.Retro Tec Insulation/gangmonkeys/gangmonkeys.png">
     
     <style>
         /* Custom CSS for elements that need more specific styling */
@@ -342,7 +342,25 @@
             <input type="text" id="search-input" placeholder="Search..." />
         </div>
         
-      
+        <!-- Users Section -->
+        <div class="section-divider"></div>
+        <div id="users-section">
+            <h2 class="section-title">Users</h2>
+            <div class="names-container" id="userList">
+                <!-- All names will be dynamically inserted here -->
+            </div>
+        </div>
+        
+        <!-- Gangs Section -->
+        <div class="section-divider"></div>
+        <div id="gangs-section">
+            <h2 class="section-title">Gangs</h2>
+            <div id="gangList" class="card-container">
+                <!-- Gang cards will be dynamically inserted here -->
+            </div>
+        </div>
+    </div>
+    
     <!-- Discord Link -->
     <a href="https://discord.gg/pal" target="_blank" class="discord-logo">
         <img src="../discord.png" alt="Discord Logo" />
@@ -362,7 +380,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             // All the requested names
             const names = [
-              
+                
             ];
             // Render all names as tags
             const userList = document.getElementById('userList');
@@ -372,7 +390,9 @@
                 `;
             });
             
-           
+            // Sample gang data
+            const gangs = [
+               
             ];
             
             // Render gang cards
