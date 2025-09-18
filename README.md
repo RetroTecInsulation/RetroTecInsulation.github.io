@@ -332,15 +332,10 @@
         
         <!-- Navigation Buttons -->
         <div class="button-container">
-            <button class="outlined-button" onclick="window.location.href='/depot';">Depot</button>
-            <button class="outlined-button" onclick="window.location.href='/archieve';">Archieve</button>
-            <button class="outlined-button" onclick="window.location.href='/hoa';">HOA</button>
+            <button class="outlined-button" onclick="window.location.href='/home';">Archieve</button>
+            <button class="outlined-button" onclick="window.location.href='/info';">HOA</button>
         </div>
         
-        <!-- Search Bar -->
-        <div id="search-container">
-            <input type="text" id="search-input" placeholder="Search..." />
-        </div>
         
         <!-- Users Section -->
         <div class="section-divider"></div>
