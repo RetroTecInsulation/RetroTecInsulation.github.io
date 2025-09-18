@@ -340,7 +340,7 @@
         <!-- Users Section -->
         <div class="section-divider"></div>
         <div id="users-section">
-            <h2 class="section-title">Users</h2>
+            
             <div class="names-container" id="userList">
                 <!-- All names will be dynamically inserted here -->
             </div>
@@ -349,7 +349,7 @@
         <!-- Gangs Section -->
         <div class="section-divider"></div>
         <div id="gangs-section">
-            <h2 class="section-title">Gangs</h2>
+           
             <div id="gangList" class="card-container">
                 <!-- Gang cards will be dynamically inserted here -->
             </div>
