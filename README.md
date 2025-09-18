@@ -380,32 +380,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             // All the requested names
             const names = [
-                "Elijah Proxy", "mike", "Temmie", "Galaxer", "Bloo", "Disrupt", "Nemi", 
-                "Vermillion", "Mummy", "STM", "Cryption", "DaddyHDK", "G59Bandit", "Garra", 
-                "Madara", "Tu-Ka", "N2", "Pitufo", "RAGEQUILL", "SpookyK", "Baphomet", 
-                "BlissK", "BlueDevil", "Chimp", "GirthControl", "lurking", "Magma", "Lazyk", 
-                "Lucifer", "Y2kPerkz", "Nett", "NotJeff", "Nuke", "Rattle", "Scar", "QuickDrip", 
-                "Temple", "GoodTimes", "Loy", "FrostBite", "cryptic", "-GHOSTLLYYY-", "Rize", 
-                "Beasy", "Barcode", "Plugjamie", "Airboik", "Ak???", "BigDay", "BlackOps", 
-                "CodyTLO", "DOOMSET", "Griffo", "InvisbleDude99", "Kobaxso", "Reaper Jr", 
-                "RedHat15", "RY", "Shine", "SixShooter", "CAll", "akimara", "cyrus", "Rize", 
-                "cherry", "Kozutoh", "Bamz", "WeaperV2", "Meowth", "pluto", "Carnage", "@x_x", 
-                "AnarchyAbuse", "mrwendigo", "WTFBlaze", "Dutboot", "Future", "Spanzer", "Chillz", 
-                "Deception", "Nutting", "Y2k", "Trendy", "Slipnot", "Gambino", "grusade", "_Sekli", 
-                "Crucifiedv1", "Opendia", "Darkneko-san", "Gachi", "koko", "Mr-aux", "xmello", 
-                "Rats", "Zair", "Hellboy", "Kxyu", "insomniac", "Arab", "Devil", "Kardi", "rex", 
-                "rylielol", "firefly", "Onyx", "BAZ", "Exo.", "Sid", "/ SiddyWiddy", "VEXI-*", 
-                "SCRIPTURE *", "egirl", "notth", "* Oreg", "demz", "Corruptedtt", "clutch501", 
-                "kovno", "kovnos", "e-kitten", "992", "river?", "cOsimix", "blxckout.reaper", 
-                "Scrim", "Hxlx", "Basement", "beanman", "Zack Attack", "pass", "Dedsec", 
-                "Insicions!", "truth_gambino", "Jrobot2000", "COLD", "GhostFN2", "123", "vxzys", 
-                "5毛尺アモカイ", "GREED", "Grapey", "ZOOTED", "TrashFile-exe", "-MEL O-", "7am", 
-                "Apathy", "DITTO", "Trygun", "Qust", "lil Danger", "repent", "Dark-", "Coke", 
-                "Drip", "faadedk", "LEEKY", "BLIKYY", "Mr. coffin", "tor terrorist", "Sodah", 
-                "Thisco", "notvamp", "Google", "Feds", "R32", "Cody", "k9xy", "Silencehoe", "VPN", 
-                "Zipfile", "556?", "PURPS", "kittysociety", "2016", "Xena?", "Scrimz", "Bluexgore", 
-                "colossalox", "1u1z", "CXD?", "Rasq", "2 stalker", "Orthodox", "BIGM", "DEAD", 
-                "THE WATCHER", "Milo", "nba", "jace"
+              
             ];
             // Render all names as tags
             const userList = document.getElementById('userList');
