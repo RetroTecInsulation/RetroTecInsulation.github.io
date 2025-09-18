@@ -342,25 +342,7 @@
             <input type="text" id="search-input" placeholder="Search..." />
         </div>
         
-        <!-- Users Section -->
-        <div class="section-divider"></div>
-        <div id="users-section">
-            <h2 class="section-title">Users</h2>
-            <div class="names-container" id="userList">
-                <!-- All names will be dynamically inserted here -->
-            </div>
-        </div>
-        
-        <!-- Gangs Section -->
-        <div class="section-divider"></div>
-        <div id="gangs-section">
-            <h2 class="section-title">Gangs</h2>
-            <div id="gangList" class="card-container">
-                <!-- Gang cards will be dynamically inserted here -->
-            </div>
-        </div>
-    </div>
-    
+      
     <!-- Discord Link -->
     <a href="https://discord.gg/pal" target="_blank" class="discord-logo">
         <img src="../discord.png" alt="Discord Logo" />
@@ -390,12 +372,7 @@
                 `;
             });
             
-            // Sample gang data
-            const gangs = [
-                { id: 1, name: "Banana Brigade", members: "12 members", avatar: "https://r2.gangmonkeys.com/gangmonkeys/gang1.jpg" },
-                { id: 2, name: "Jungle Junkies", members: "8 members", avatar: "https://r2.gangmonkeys.com/gangmonkeys/gang2.jpg" },
-                { id: 3, name: "Pixel Punks", members: "15 members", avatar: "https://r2.gangmonkeys.com/gangmonkeys/gang3.jpg" },
-                { id: 4, name: "VR Vandals", members: "20 members", avatar: "https://r2.gangmonkeys.com/gangmonkeys/gang4.jpg" }
+           
             ];
             
             // Render gang cards
